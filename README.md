@@ -1,4 +1,4 @@
-# Bike-Sales-Dashboard
+# Bike-Sales-Dashboard with Excel
 ## A dashboard demonstrating the factors affecting the sales of bikes
 
 
